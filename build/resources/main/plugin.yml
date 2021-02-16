@@ -1,0 +1,5 @@
+name: MythicFond
+version: 1.0.4
+main: net.konfix.mythicfond.MythicFond
+api-version: 1.13
+authors: [Konfix]

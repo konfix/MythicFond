@@ -1,0 +1,19 @@
+FUNDS_MAIN: |-
+  &7
+  &7┏
+  &7┣ &2&lGlobalni fond &7[&a%amount%&2$&7]
+  &7┃
+  &7┣  &fInvestirajte u fond i zajedničkim snagama
+  &7┣  &fomogućite razne dodatke celom serveru.
+  &7┣  &fKoristite &6/&efond depozit &6<&ekoličina&6>
+  &7┃
+FUNDS_BROADCAST: '&8&l┃ &a&lFond &8┃ &e%player% &fje investirao/la &a%amount%&2$ &fu
+  &eGlobalni fond&f.'
+FUNDS_MESSAGE: '&8&l┃ &a&lFond &8┃ &eUspešno! &fInvestirali ste &a%amount%&2$&f.'
+FUNDS_COMMANDS: '&8&l┃ &c&lGreška &8┃ &fOtključajte komandu u &6/&efond&f za korišćenje.'
+FUNDS_REMOVED: '&c- &e%amount%&6$ &7[&oFond&7]'
+FUNDS_NOT_ENOUGH: '&8&l┃ &c&lFond &8┃ &fNemate dovoljno novca za investiranje!'
+FUNDS_RESET: '&8&l┃ &6&lFond &8┃ &fFond servera uspešno resetovan.'
+DEPOSIT_LOW: '&8&l┃ &6&lFond &8┃ &fNe možete uplatiti manje od &e5,000&6$'
+CONFIGURATION_RELOAD: '&8&l┃ &a&lFond &8┃ &fReload uspešan.'
+

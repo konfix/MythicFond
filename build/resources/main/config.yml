@@ -1,0 +1,34 @@
+Settings:
+  min-deposit: 5000
+  colors:
+    primary: "&6"
+    secondary: "&e"
+
+
+Funds:
+  fix:
+    amount: 100000
+    blocked-commands:
+      - 'fix'
+      - 'repair'
+    reward-commands:
+      - 'give {PLAYER} diamond 1'
+    message: '&7┣   &fOtklju�?ajte &6/&efix &7[&e%percent%%&7] &f» &a100k&2$'
+    complete-message:
+      - ''
+      - '&8&l┃ &b&lČestitamo &8┃ &fZajednica je otklju�?ala &3/&bfix&f! &7(Više na &o/fond&7)'
+      - ''
+  heal:
+    amount: 200000
+    blocked-commands:
+      - 'tags'
+      - 'tag'
+    reward-commands:
+      - 'give {PLAYER} diamond 1'
+    message: |-
+      &7┣   &fOtklju�?ajte &6/&etags &7[&e%percent%%&7] &f» &a200k&2$
+      &7┗
+    complete-message:
+      - ''
+      - '&8&l┃ &b&lČestitamo &8┃ &fZajednica je otklju�?ala &3/&btags&f! &7(Više na &o/fond&7)'
+      - ''
