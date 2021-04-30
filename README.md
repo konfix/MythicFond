@@ -6,6 +6,3 @@ Plugin automatski blokira konfigurisane komande, koje se otključavaju tek nakon
 Motiviše igrače da sarađuju i zajedno ulažu u fond kako bi otključali korišćenje komandi i dodataka.
 Ovaj plugin ne dodeljuje permisije za korišćenje komandi, već ih samo blokira.
 
-# O pluginu
-Gradle, uz Aikar dependencies. Builda se kao i svaki drugi Gradle/Maven projekat, pokretanjem build procesa.
-Forkovana verzija, originalni autor Splodgebox (**CosmicFunds**)
