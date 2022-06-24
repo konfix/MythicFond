@@ -6,4 +6,4 @@ Plugin automatski blokira konfigurisane komande, koje se otključavaju tek nakon
 Motiviše igrače da sarađuju i zajedno ulažu u fond kako bi otključali korišćenje komandi i dodataka.
 Ulaganje se vrši u globalnu kasu, svaki igrač ima svoj doprinos.
 
-Pravljeno za Mystic Network (ex Mythic Network) ali ga možete koristiti na svom serveru (ne garantujem nikakvu funkcionalnost)
+Pravljeno za Mystic Network (staro ime Mythic Network) ali ga možete koristiti na svom serveru (ne garantujem nikakvu funkcionalnost)
